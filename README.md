@@ -17,3 +17,4 @@ Im numerischen Teil wird die Kodierung von Zahlen vorgestellt, mögliche Fehlerq
 ## Links
 
 [Uni Bonn](https://ins.uni-bonn.de/media/public/courses/SS18/algorithmische-mathematik-ii/Blatt2.pdf?pk=203)
+[Fernuni Hagen | Modulbeschreibung](https://www.fernuni-hagen.de/mi/studium/module/alg_math.shtml)
