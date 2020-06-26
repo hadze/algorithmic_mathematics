@@ -1,5 +1,8 @@
 # algorithmic_mathematics
 
+![alt text](Apps-preferences-kcalc-constants-icon.png)
+
+
 ## Modul 61411 Algorithmische Mathematik
 
 Modulinformation
