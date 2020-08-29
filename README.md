@@ -1,5 +1,8 @@
 # algorithmic_mathematics
 
+![alt text](Apps-preferences-kcalc-constants-icon.png)
+
+
 ## Modul 61411 Algorithmische Mathematik
 
 Modulinformation
@@ -21,3 +24,5 @@ Im numerischen Teil wird die Kodierung von Zahlen vorgestellt, mögliche Fehlerq
 [Fernuni Hagen | Modulbeschreibung](https://www.fernuni-hagen.de/mi/studium/module/alg_math.shtml)
 
 [Fernuni Hagen | Einsendeaufgaben](https://vu.fernuni-hagen.de/lvuweb/lvu/file/FeU/Mathematik/2020SS/01142/oeffentlich/01142.html)
+
+[Studientag 2020](https://vu.fernuni-hagen.de/lvuweb/lvuauth/file/FeU/Mathematik/2020SS/01142/material/ungetaktet/Aufnahme_Samstag.mp4)
