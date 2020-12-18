@@ -26,3 +26,5 @@ Im numerischen Teil wird die Kodierung von Zahlen vorgestellt, mögliche Fehlerq
 [Fernuni Hagen | Einsendeaufgaben](https://vu.fernuni-hagen.de/lvuweb/lvu/file/FeU/Mathematik/2020SS/01142/oeffentlich/01142.html)
 
 [Studientag 2020](https://vu.fernuni-hagen.de/lvuweb/lvuauth/file/FeU/Mathematik/2020SS/01142/material/ungetaktet/Aufnahme_Samstag.mp4)
+
+[Coding problems](https://github.com/MTrajK/coding-problems/tree/master/Math)
